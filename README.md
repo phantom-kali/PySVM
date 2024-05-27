@@ -15,25 +15,31 @@ Support Vector Machines (SVMs) are powerful supervised learning models used for 
 
 ## Usage
 
-1. **Install Dependencies**: Ensure you have the required dependencies installed. You can install them using pip:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-2. **Clone Repository**: Clone this repository to your local machine:
+1. **Clone Repository**: Clone this repository to your local machine:
 
     ```bash
     git clone https://github.com/phantom-kali/PySVM.git
     ```
 
-3. **Run Example Script**: Use the provided example script `main.py` to train and test an SVM model:
+2. **Move to the Cloned Directory**:
+
+    ```bash
+    cd PySVM
+    ```
+
+3. **Install Dependencies**: Ensure you have the required dependencies installed. You can install them using pip:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4. **Run Example Script**: Use the provided example script `main.py` to train and test an SVM model:
 
     ```bash
     python main.py
     ```
 
-4. **Customization**: Customize the framework according to your specific requirements by modifying the modules and scripts.
+5. **Customization**: Customize the framework according to your specific requirements by modifying the modules and scripts.
 
 ## Modules
 
